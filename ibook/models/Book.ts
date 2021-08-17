@@ -11,7 +11,7 @@ export interface Page {
 
 export interface Book {
     id: number
-    auth: string
+    author: string
     releaseDate: string 
     title: string
     description: string
