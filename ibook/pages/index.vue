@@ -10,6 +10,7 @@ export default Vue.extend({
   layout: 'ibook',
   asyncData() {
     console.log(books.books)
-  },
+  }, //Teste
 })
 </script>
+
